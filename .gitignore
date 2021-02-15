@@ -1,0 +1,38 @@
+# Xcode
+DerivedData
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+
+# Project specific
+Reveal.framework
+Exponea/*
+FacebookSDKs/*
+Firebase/*
+Mapbox/*
+Mixpanel/*
+Tripomatic_base.sqlite
+*.gpx
+*.mbtiles
+
+# Apple
+.DS_Store
+*.swp
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
